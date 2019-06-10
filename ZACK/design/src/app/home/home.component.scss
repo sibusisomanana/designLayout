@@ -1,0 +1,52 @@
+ul{
+    float: right;
+    list-style-type: none;
+    padding: 20px;
+    
+}
+.logo{
+    color: white;
+ 
+}
+header{
+    height: 100vh;
+    width: 90;
+}
+ul li {
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    scroll-padding-bottom: 40px;
+    
+    padding: 50px 50px;
+    
+}
+
+#intro{
+  
+    width: 300px;
+    
+    
+    float: left;
+    padding: 200px;
+  
+    color: white;
+
+
+
+}
+.btn1{
+    height: 35px;
+    width: 100px;
+   border-radius: 13%;
+   color: purple;
+
+
+}
+h3{
+    color: white;
+    padding: 20px;
+    float: left;
+}
